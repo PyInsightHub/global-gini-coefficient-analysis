@@ -154,14 +154,3 @@ print(model.predict(scaler.transform(new_data))[0])
 Python · Pandas · NumPy · Matplotlib · Seaborn · Plotly · scikit-learn · Joblib
 
 ---
-
-## 👤 Author
-
-**Your Name**
-[LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
-
----
-
-## 📄 License
-
-This project is released under the MIT License.
